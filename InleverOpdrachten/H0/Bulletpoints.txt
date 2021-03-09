@@ -1,0 +1,19 @@
+- 3 lagen: 
+	- Database	(Tabellen/Gegevens)
+	- Backend	(Brein van app/PHP code/Maakt HTML)
+	- Front-end	(Wat je te zien krijgt)
+
+- lagen communiceren met elkaar: 
+	- Front-end/Gebruiker stuurd een 'request' naar de backend
+	- Backend gaat naar Database om te zoeken naar de gevraagde informatie voor een 'response'
+	- Backend stuurd 'response' terug naar de Front-end om de gebruiker te laten zien wat die wilde
+
+- Begrippen: 
+	- Database
+	- sql
+	- Backend
+ 	- PHP
+	- frontend
+	- html, css
+	- request
+    - response
